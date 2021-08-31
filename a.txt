@@ -1,1 +1,2 @@
-noi dung `a`
+noi dung `a` 
+duoc chinh sua boi ubuntu
